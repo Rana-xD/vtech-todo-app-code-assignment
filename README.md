@@ -25,6 +25,10 @@
 
 ### API Endpoint
 
+```bash
+I use App router feature of NextJS. You can check folder app/api for API endpoint
+```
+
 - GET ('api/task')
 - POST ('api/task')
 - PATCH ('api/task/id')
